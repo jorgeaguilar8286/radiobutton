@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejercicio_radiobutton</string>
+    <string name="txt_v1">Introduce el primer Valor</string>
+    <string name="txt_v2">Introduce el segundo Valor</string>
+    <string name="rb_sumar">Sumar</string>
+    <string name="rb_restar">Restar</string>
+    <string name="rb_multiplicar">Multiplicar</string>
+    <string name="rb_dividir">Dividir</string>
+    <string name="Button">Calcular</string>
+    <string name="txt_resultado">Resultado</string>
+
+</resources>
